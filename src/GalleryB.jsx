@@ -2,7 +2,7 @@ function Galleryb(){
     return(
         <section className=" h-602 gap-12">
             <div className="flex justify-center text-center gap-16 overflow-x-hidden px-28">
-                <img src="auto1.png"></img>
+                <img src="src\assets\auto1.png"></img>
                 <img src="src\assets\auto2.png"></img>
                 <img src="src\assets\auto3.png"></img>
             </div>
